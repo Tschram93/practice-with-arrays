@@ -1,19 +1,19 @@
     // ## Array Cardio Day 2
 
     const people = [{
-            name: 'Wes',
+            name: 'Derek',
             year: 1988
         },
         {
-            name: 'Kait',
+            name: 'Kaitlyn',
             year: 1986
         },
         {
-            name: 'Irv',
+            name: 'Ivy',
             year: 1970
         },
         {
-            name: 'Lux',
+            name: 'Lexus',
             year: 2015
         }
     ];
@@ -35,7 +35,7 @@
             id: 123523
         },
         {
-            text: 'Nice Nice Nice!',
+            text: 'NOM NOM NOM!',
             id: 542328
         }
     ];
