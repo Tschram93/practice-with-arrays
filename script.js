@@ -19,11 +19,11 @@
     ];
 
     const comments = [{
-            text: 'Love this!',
+            text: 'OH-M-GEE!',
             id: 523423
         },
         {
-            text: 'Super good',
+            text: 'This is going on the gram',
             id: 823423
         },
         {
@@ -31,7 +31,7 @@
             id: 2039842
         },
         {
-            text: 'Ramen is my fav food ever',
+            text: 'Tacos is my favorite food ever',
             id: 123523
         },
         {
